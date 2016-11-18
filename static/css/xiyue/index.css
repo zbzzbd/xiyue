@@ -1,0 +1,72 @@
+#topindex {
+    margin: auto;
+
+}
+#second{
+    margin: auto;
+    background: black;
+}
+#footer{
+
+    margin: auto;
+    background: black;
+}
+
+#thrid{
+    position: relative;
+    margin-top:227px;
+    background: black;
+}
+.ruanwen{
+    color: #f8eaff;
+    text-align: center;
+}
+.logo{
+
+}
+.webchat{
+    position: relative;
+    width: 984px;
+    height: 541px;
+    left:50%;
+    right: 50%;
+    margin-left: -692px;
+    transform: translate(20%,20%);
+}
+#img-mac{
+    width: 589px;
+    height: 488px;
+    margin-left: 100px;
+}
+#thirsty{
+    text-align: center;
+}
+#lunbo{
+    margin: auto;
+    text-align: center;
+    color:#f8eaff;
+    background: #000000;
+}
+.item ul li {
+    list-style-style: none;
+    display: inline;
+    margin-right: 29px;
+}
+.bor_btm ul img{
+    width: 330px;
+    height: 250px;
+}
+.lixi{
+    color:#f8eaff;
+    text-align: center;
+    font-size: 30px;
+}
+.fankui{
+    color:#f8eaff;
+    font-size: 14px;
+    text-align: center;
+}
+.product{
+    font-size: 18px;;
+}
+
